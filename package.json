@@ -1,0 +1,8 @@
+{
+  "name": "yarn-workspaces-example",
+  "version": "1.0.0",
+  "workspaces":["common","server"],
+  "repository": "git@github.com:FoushWare/yarn-workspaces-example.git",
+  "author": "FoushWare <mr.fouad992@gmail.com>",
+  "license": "MIT"
+}
