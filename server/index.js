@@ -1,3 +1,3 @@
-const CommonFunction = require('common');
+const CommonFunction = require('@foush/common');
 
 CommonFunction();
